@@ -3,4 +3,4 @@ ESP32-based IoT system for smart city manhole monitoring. Detects gas leaks, wat
 
 ## 📊 Block Diagram
 
-![Block Diagram](images/block_diagram.png)
+https://github.com/athullyajohn/Manhole-Monitoring-System/blob/2c3ee0b9a8e4684feb097f14a59effa7824203cd/images/block%20digram%20manhole%20monitoring%20system.png
